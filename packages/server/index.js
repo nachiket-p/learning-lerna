@@ -1,4 +1,4 @@
 const common = require('common');
 
 common.hello();
-common.test('Zzz');
+common.test('Zzz 2');
