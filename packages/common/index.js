@@ -4,5 +4,5 @@ function test(i) {
 
 module.exports = {
   test,
-  hello: ()=>"hello"
+  hello: ()=>"hello world"
 }
