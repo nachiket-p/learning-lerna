@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo testing server version $npm_package_version"
+  },
+  "dependencies": {
+    "common": "1.0.0",
+    "graphql-yoga": "^1.18.1"
+  }
+}
